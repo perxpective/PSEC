@@ -1,0 +1,18 @@
+{'Question': 'what is 1+1?', 'A': '12', 'B': '2', 'C': '3', 'D': '4', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'B', 'TestedModule': 'Math', 'TestedTopic': 'Addition'}
+{'Question': 'What is 1-1?', 'A': '4', 'B': '3', 'C': '2', 'D': '0', 'Marks': 2, 'InputAnswer': '', 'CorrectAnswer': 'D', 'TestedModule': 'Math', 'TestedTopic': 'Subtraction'}
+{'Question': 'What is 1x2?', 'A': '1', 'B': '2', 'C': '3', 'D': '4', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'B', 'TestedModule': 'Math', 'TestedTopic': 'Multiplication'}
+{'Question': 'What is 2/1?', 'A': '1', 'B': '2', 'C': '3', 'D': '4', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'B', 'TestedModule': 'Math', 'TestedTopic': 'Division'}
+{'Question': 'What is the capital city of Japan?', 'A': 'Tokyo', 'B': 'Osaka', 'C': 'Seoul', 'D': 'Nagoya', 'Marks': 2, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'Geography', 'TestedTopic': 'Asia'}
+{'Question': 'What is the capital city of France?', 'A': 'Rome', 'B': 'London', 'C': 'Paris', 'D': 'Toulouse', 'Marks': 2, 'InputAnswer': '', 'CorrectAnswer': 'C', 'TestedModule': 'Geography', 'TestedTopic': 'Europe'}
+{'Question': 'Where is Johannesburg located?', 'A': 'Nigeria', 'B': 'South Africa', 'C': 'Congo', 'D': 'Ethiopia', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'B', 'TestedModule': 'Geography', 'TestedTopic': 'Africa'}
+{'Question': 'Which state does Los Angeles belong to?', 'A': 'Texas', 'B': 'New York', 'C': 'California', 'D': 'Chicago', 'Marks': 2, 'InputAnswer': '', 'CorrectAnswer': 'C', 'TestedModule': 'Geography', 'TestedTopic': 'America'}
+{'Question': 'Which system does the stomach belong to?', 'A': 'Nervous System', 'B': 'Circulatory System', 'C': 'Digestive System', 'D': 'Respiratory System', 'Marks': 2, 'InputAnswer': '', 'CorrectAnswer': 'C', 'TestedModule': 'Science', 'TestedTopic': 'Biology'}
+{'Question': "Which Newton's Law states that for every action there is an equal and opposite reaction?", 'A': 'First', 'B': 'Second', 'C': 'Third', 'D': 'Fourth', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'C', 'TestedModule': 'Science', 'TestedTopic': 'Physics'}
+{'Question': 'What does the reaction between sulfuric acid and sodium hydroxide yield?', 'A': 'Sodium Sulfate and Water', 'B': 'Sodium Sulfide and Carbon Dioxide', 'C': 'Sodium Sulfate, Water and Carbon Dioxide', 'D': 'Sodium Sulfide and Water', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'Science', 'TestedTopic': 'Chemistry'}
+{'Question': 'What is 2+2?', 'A': '1', 'B': '2', 'C': '3', 'D': '4', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'D', 'TestedModule': 'Math', 'TestedTopic': 'Addition'}
+{'Question': 'What is 2-2?', 'A': '0', 'B': '1', 'C': '2', 'D': '3', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'Math', 'TestedTopic': 'Subtraction'}
+{'Question': 'String1', 'A': 'a', 'B': 'b', 'C': 'c', 'D': 'd', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'DISM', 'TestedTopic': 'String'}
+{'Question': 'Socket1', 'A': 'a', 'B': 'b', 'C': 'c', 'D': 'd', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'DISM', 'TestedTopic': 'Socket'}
+{'Question': 'String2', 'A': 'a', 'B': 'b', 'C': 'c', 'D': 'd', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'DISM', 'TestedTopic': 'String'}
+{'Question': 'Socket2', 'A': 'a', 'B': 'b', 'C': 'c', 'D': 'd', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'DISM', 'TestedTopic': 'Socket'}
+{'Question': 'Socket3', 'A': 'a', 'B': 'b', 'C': 'c', 'D': 'd', 'Marks': 1, 'InputAnswer': '', 'CorrectAnswer': 'A', 'TestedModule': 'DISM', 'TestedTopic': 'Socket'}
